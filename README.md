@@ -10,6 +10,9 @@
 
 最後，在訓練模型train_history = model.fit()中，調整以下參數validation_split=0.15, epochs=20, batch_size=32, verbose=1。
 
+- expand.ipynb for epoch = 20
+- expand(50).ipynb for epoch = 50
+
 
 
 
